@@ -5,7 +5,7 @@ from bs4 import BeautifulSoup
 import requests 
 import time
 #allow user to search information about an specific president 
-print("About which LaLiga president do you want to know about?")
+print("About which football president do you want to know about?")
 presidente = input('type his/her name: ')
 print(f"filtrando {presidente}")
 
